@@ -23,7 +23,7 @@ This is my first fullstack web application. I've used MongoDB as a database , Re
 ## Start the app locally 🔌
 First please clone this repository 
 ```bash
-git clone https://github.com/mithatercann/twitter-clone.git
+git clone (https://github.com/Mayuradlak123/Twitter-Clone)
 ```
 
 ### Environment setup
